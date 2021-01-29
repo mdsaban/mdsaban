@@ -1,5 +1,6 @@
-### Hi there 👋
-## Nice meeting you, I'm Saban!
+<h1 align="center">Hi 👋, I'm Saban</h1>
+
+<h3 align="center">A Full Stack Developer & UI/UX Designer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaban&label=Views&color=blue&style=plastic" alt="mdsaban" /> </p>
 
